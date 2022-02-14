@@ -1,0 +1,9 @@
+/*
+	Página de vendas - monopage - aqui está o CSS da página (estilização de elementos) da parte de carregamento do site
+*/
+
+/* Loader */
+
+	body:before, body:after {
+		display: none;
+	}
