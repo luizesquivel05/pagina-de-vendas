@@ -70,6 +70,26 @@ input, select, textarea {
 	appearance: none;
 }
 
+thead {
+	background-color: orange;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.com_cor {
+	background-color: #fdeada;
+}
+
+#inscricao {
+	text-transform: uppercase;
+	font-weight: bold;
+	color: white;
+	background-color: red;
+	border-style: solid;
+    border-width: 7px 7px 7px 7px;
+    border-color: #EFE674;
+    border-radius: 15px 15px 15px 15px;
+}
 /* Basic */
 
 	@-ms-viewport {
